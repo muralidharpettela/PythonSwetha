@@ -200,3 +200,17 @@ Websocket closed
 [I 16:52:01.537 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[W 16:54:44.281 NotebookApp] Culling 'idle' kernel 'python3' (5149f7e1-8957-4ac7-aa76-0736acbbc7bd) with 1 connections due to 637 seconds of inactivity.
+[I 16:54:44.281 NotebookApp] Kernel shutdown: 5149f7e1-8957-4ac7-aa76-0736acbbc7bd
+[W 16:54:45.423 NotebookApp] 410 DELETE /user/muralidharpettela-pythonswetha-dexjwflb/api/sessions/05d5c305-87a2-4821-94a0-982bd562e712 (223.196.170.200): Kernel deleted before session
+[W 16:54:45.424 NotebookApp] Kernel deleted before session
+[W 16:54:45.424 NotebookApp] 410 DELETE /user/muralidharpettela-pythonswetha-dexjwflb/api/sessions/05d5c305-87a2-4821-94a0-982bd562e712 (223.196.170.200) 1.650000ms referer=https://hub.gke2.mybinder.org/user/muralidharpettela-pythonswetha-dexjwflb/notebooks/Example.ipynb
+[W 17:01:51.766 NotebookApp] 404 DELETE /user/muralidharpettela-pythonswetha-dexjwflb/api/sessions/05d5c305-87a2-4821-94a0-982bd562e712 (223.196.168.30): Session not found: session_id='05d5c305-87a2-4821-94a0-982bd562e712'
+[W 17:01:51.766 NotebookApp] Session not found: session_id='05d5c305-87a2-4821-94a0-982bd562e712'
+[W 17:01:51.766 NotebookApp] 404 DELETE /user/muralidharpettela-pythonswetha-dexjwflb/api/sessions/05d5c305-87a2-4821-94a0-982bd562e712 (223.196.168.30) 1.620000ms referer=https://hub.gke2.mybinder.org/user/muralidharpettela-pythonswetha-dexjwflb/notebooks/Example.ipynb
+[I 17:01:52.127 NotebookApp] Kernel started: b9242c68-1819-4f97-b282-7e73a9951a02, name: python3
+[I 17:02:18.743 NotebookApp] Saving file at /Example.ipynb
+[W 17:02:18.744 NotebookApp] Notebook Example.ipynb is not trusted
+[I 17:03:25.828 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
