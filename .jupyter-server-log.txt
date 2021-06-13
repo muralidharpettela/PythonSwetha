@@ -523,3 +523,7 @@ TermSocket.open: Opened 1
 [I 14:46:55.131 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 14:48:42.657 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:48:42.659 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:48:48.143 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:48:48.144 NotebookApp] Notebook Classwork.ipynb is not trusted
