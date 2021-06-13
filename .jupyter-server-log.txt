@@ -432,3 +432,94 @@ TermSocket.open: Opened 1
 [I 13:40:05.075 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-06-13 13:47:40.900 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-13 13:47:40.901 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-13 13:47:40.901 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-13 13:47:40.901 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-13 13:47:40.912 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-13 13:47:40.912 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 13:47:40.920 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 13:47:40.923 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 13:47:40.924 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 13:47:40.924 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 13:47:40.924 NotebookApp] http://jupyter-muralidharpettela-2dpythonswetha-2d6pc4eqxg:8888/user/muralidharpettela-pythonswetha-6pc4eqxg/?token=...
+[I 13:47:40.924 NotebookApp]  or http://127.0.0.1:8888/user/muralidharpettela-pythonswetha-6pc4eqxg/?token=...
+[I 13:47:40.924 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 13:47:40.929 NotebookApp] No web browser found: could not locate runnable browser.
+[I 13:47:44.826 NotebookApp] 302 GET /user/muralidharpettela-pythonswetha-6pc4eqxg/ (10.0.5.20) 0.920000ms
+[I 13:47:47.884 NotebookApp] 302 GET /user/muralidharpettela-pythonswetha-6pc4eqxg/?token=cJI5sDAYQCuNF6KWtY6EGg (93.201.122.42) 1.020000ms
+[W 13:48:20.200 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 13:48:24.124 NotebookApp] Kernel started: d9e024fe-ba98-4df9-839c-ef9f03d224f0, name: python3
+[I 13:48:24.124 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 13:48:24.124 NotebookApp] Culling kernels even with connected clients
+[I 13:50:24.234 NotebookApp] Saving file at /Classwork.ipynb
+[W 13:50:24.236 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 13:52:25.004 NotebookApp] Saving file at /Classwork.ipynb
+[W 13:52:25.006 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 13:54:24.957 NotebookApp] Saving file at /Classwork.ipynb
+[W 13:54:24.959 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 13:56:24.954 NotebookApp] Saving file at /Classwork.ipynb
+[W 13:56:24.956 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 13:58:24.955 NotebookApp] Saving file at /Classwork.ipynb
+[W 13:58:24.957 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:00:24.998 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:00:24.999 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:02:24.998 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:02:25.000 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:04:24.966 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:04:24.967 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:06:24.956 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:06:24.957 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:08:24.961 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:08:24.963 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:10:24.960 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:10:24.962 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:12:25.087 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:12:25.088 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:14:24.962 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:14:24.963 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:16:24.962 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:16:24.964 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:18:24.962 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:18:24.963 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:20:24.964 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:20:24.966 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:22:25.131 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:22:25.132 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:24:25.213 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:24:25.215 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:26:24.969 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:26:24.971 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:28:24.986 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:28:24.988 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:30:24.971 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:30:24.972 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:32:24.970 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:32:24.972 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:34:24.970 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:34:24.972 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:36:24.970 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:36:24.971 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:38:24.978 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:38:24.980 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:40:24.971 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:40:24.973 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:42:24.974 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:42:24.976 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:44:24.976 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:44:24.977 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:46:24.974 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:46:24.975 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:46:47.769 NotebookApp] Saving file at /Classwork.ipynb
+[W 14:46:47.771 NotebookApp] Notebook Classwork.ipynb is not trusted
+[I 14:46:55.131 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
